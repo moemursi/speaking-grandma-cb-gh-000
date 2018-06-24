@@ -1,6 +1,6 @@
 # Speak to Grandma
 
-## Objectives
+## Objectivesj
 
 1. Control flow by using `if`, `elsif`, and `else` statements.
 2. Manipulate strings correctly.
